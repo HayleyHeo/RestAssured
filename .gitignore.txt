@@ -1,6 +1,6 @@
 /bin/
 /*.pdf
-.metadata
+.metadata*
 .chromeProfile
 .provarCache*
 /Result*
